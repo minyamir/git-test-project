@@ -1,2 +1,2 @@
-My first Git file
-// new line
+console.log('App started');
+console.log('New minyamir kelemud');
