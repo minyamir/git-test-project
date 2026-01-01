@@ -1,2 +1,2 @@
-console.log('Hello Git');
-// new line
+console.log("App started");
+console.log("New feature added: Farmer login implemented");
