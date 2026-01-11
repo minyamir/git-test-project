@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-this is my club minyamir kelemuThis line is added from Git
+this is my club minyamir kelemuThis line is added from Git i kove tigst
 =======
-this is my club arsenal adhja asdfffffffffffffffffffffffff
+this is my club arsenal adhja asdfffffffffffffffffffffffff 
 >>>>>>> 205916c071ddeeaf3fe60f70ab00a1e7f4844689
